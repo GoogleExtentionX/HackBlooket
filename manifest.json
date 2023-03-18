@@ -1,0 +1,14 @@
+{
+  "name": "Blooket Hack" 
+  "version": "1.0"
+  "description": "Blooket Hack that hacks Blooket"
+  "manifest_version": 2
+  "browser_action": {
+    "default_title": "Blooket Hack",
+    "default_popup": "popup.html",
+    "default_icon": "BlooketHack.png"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
